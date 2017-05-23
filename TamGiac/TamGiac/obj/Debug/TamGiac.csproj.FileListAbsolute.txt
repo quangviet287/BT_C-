@@ -1,0 +1,5 @@
+E:\C#\TamGiac\TamGiac\bin\Debug\TamGiac.exe
+E:\C#\TamGiac\TamGiac\bin\Debug\TamGiac.pdb
+E:\C#\TamGiac\TamGiac\obj\Debug\TamGiac.csprojResolveAssemblyReference.cache
+E:\C#\TamGiac\TamGiac\obj\Debug\TamGiac.exe
+E:\C#\TamGiac\TamGiac\obj\Debug\TamGiac.pdb
